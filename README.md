@@ -8,7 +8,7 @@
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 ![License](https://img.shields.io/badge/License-MIT-black)
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&section=header&text=Hisam%20Sufian%20%7C%20JavaScript%20Mini%20Projects&fontSize=40&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:0072ff&height=180&section=header&text=Hisam%20Sufian%20%7C%20JS%20Mini%20Projects&fontSize=36&fontColor=ffffff)
 
 
 # 🎉 JavaScript Mini Projects  
