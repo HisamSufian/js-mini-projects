@@ -63,7 +63,9 @@ js-mini-projects/<br>
 ### ▶ How to Run
 
 Open any project folder and run:<br>
-```npm run serve:html```
+```
+npm run serve:html
+```
 
 Or simply open the **index.html** file in your browser.
 
