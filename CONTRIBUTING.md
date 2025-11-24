@@ -61,10 +61,10 @@ We will review your submission as soon as possible!
 
 # 🧹 Coding Standards
 
-Write simple, beginner-friendly JavaScript<br>
-Use consistent indentation (2 or 4 spaces)<br>
-No unnecessary library dependencies<br>
-Keep UI minimal and clean
+@ Write simple, beginner-friendly JavaScript<br>
+@ Use consistent indentation (2 or 4 spaces)<br>
+$ No unnecessary library dependencies<br>
+& Keep UI minimal and clean
 
 # ❤️ Thank You!
 Your contribution will help hundreds of beginners learn JavaScript through real projects.
