@@ -26,11 +26,11 @@ This repo is perfect for beginners who already completed **Learn JS by Doing (Pr
 
 # 📦 Folder Structure
 
-js-mini-projects/
-│── 01_todo_app/
-│── 02_calculator/
-│── 03_digital_clock/
-│── 04_guess_number/
+js-mini-projects/<br>
+│── 01_todo_app/<br>
+│── 02_calculator/<br>
+│── 03_digital_clock/<br>
+│── 04_guess_number/<br>
 │── 05_weather_app/
 │── 06_quiz_app/
 │── 07_stopwatch/
@@ -50,7 +50,7 @@ script.js
 # ▶ How to Run
 
 Open any project folder and run:
-
+npm run serve:html
 
 Or simply open the **index.html** file in your browser.
 
