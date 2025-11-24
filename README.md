@@ -8,7 +8,11 @@
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 ![License](https://img.shields.io/badge/License-MIT-black)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Hisam+Sufian;JavaScript+Mini+Projects;Learn+By+Building+%F0%9F%94%A5)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:2a5298&height=160&text=Hisam%20Sufian%20%7C%20JavaScript%20Mini%20Projects&fontSize=36&fontColor=ffffff)
+
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:f09819&height=150&text=Hisam%20Sufian%20%7C%20Mini%20Projects&fontSize=40&fontColor=ffffff)
+
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&text=Hisam%20Sufian%20%7C%20JavaScript%20Mini%20Projects&fontSize=38&fontColor=F7DF1E)
 
 
 # 🎉 JavaScript Mini Projects  
