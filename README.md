@@ -18,7 +18,7 @@ This repo is perfect for beginners who already completed **Learn JS by Doing (Pr
 
 ---
 
-# 🚀 Projects Included (Beginner → Advanced)
+## 🚀 Projects Included (Beginner → Advanced)
 
 | # | Project | Description | Skills |
 |---|---------|-------------|--------|
@@ -37,7 +37,7 @@ This repo is perfect for beginners who already completed **Learn JS by Doing (Pr
 
 ---
 
-# 📦 Folder Structure
+### 📦 Folder Structure
 
 js-mini-projects/<br>
 │── 01_todo_app/<br>
@@ -52,15 +52,15 @@ js-mini-projects/<br>
 └── 10_notes_app/
 
 
-# Each folder contains:
-index.html<br>
-style.css<br>
-script.js<br>
+### Each folder contains:
+🔴 index.html<br>
+🟢 style.css<br>
+🟡 script.js<br>
 
 
 ---
 
-# ▶ How to Run
+### ▶ How to Run
 
 Open any project folder and run:<br>
 ```npm run serve:html```
@@ -69,7 +69,7 @@ Or simply open the **index.html** file in your browser.
 
 ---
 
-# 🧠 Skills You Will Learn
+### 🧠 Skills You Will Learn
 
 ✔ DOM Manipulation  
 ✔ Event Handling  
@@ -83,7 +83,7 @@ Or simply open the **index.html** file in your browser.
 
 ---
 
-# 📘 Requirements
+### 📘 Requirements
 
 - Basic HTML
 - Basic CSS
@@ -112,7 +112,7 @@ Every contribution helps beginners learn JavaScript better! 🚀
 
 ---
 
-# ⭐ Support the Project
+## ⭐ Support the Project
 
 If you find this useful:
 
