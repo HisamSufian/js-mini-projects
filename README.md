@@ -93,10 +93,22 @@ Or simply open the **index.html** file in your browser.
 
 ---
 
-# 🤝 Contribute
+## 🤝 Contribute
+
+Contributions are welcome!  
+Please read the **CONTRIBUTING.md** file for detailed guidelines.
+
+You can help by:
+
+- Adding new mini projects  
+- Improving existing projects  
+- Fixing bugs  
+- Enhancing UI/UX  
+- Improving documentation  
 
 Feel free to add your own mini projects and submit PRs.  
 Let’s grow the collection together.
+Every contribution helps beginners learn JavaScript better! 🚀
 
 ---
 
