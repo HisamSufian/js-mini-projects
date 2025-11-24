@@ -5,6 +5,7 @@
 ![PRs](https://img.shields.io/badge/PRs-Welcome-blue)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 ![License](https://img.shields.io/badge/License-MIT-black)
+![JS Mini Projects](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=JavaScript%20Mini%20Projects&fontSize=45&fontColor=ffffff)
 
 # 🎉 JavaScript Mini Projects  
 A collection of small, practical, fun JavaScript projects designed to strengthen your DOM, events, styling, logic, and UI-building skills.
