@@ -8,6 +8,9 @@
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 ![License](https://img.shields.io/badge/License-MIT-black)
 
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&section=header&text=Hisam%20Sufian%20%7C%20JavaScript%20Mini%20Projects&fontSize=40&fontColor=ffffff)
+
+
 # 🎉 JavaScript Mini Projects  
 A collection of small, practical, fun JavaScript projects designed to strengthen your DOM, events, styling, logic, and UI-building skills.
 
