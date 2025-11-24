@@ -39,17 +39,17 @@ js-mini-projects/<br>
 └── 10_notes_app/
 
 
-Each folder contains:
-index.html
-style.css
-script.js
+# Each folder contains:
+index.html<br>
+style.css<br>
+script.js<br>
 
 
 ---
 
 # ▶ How to Run
 
-Open any project folder and run:
+Open any project folder and run:<br>
 npm run serve:html
 
 Or simply open the **index.html** file in your browser.
