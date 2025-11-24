@@ -1,3 +1,5 @@
+![JS](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=F7DF1E&center=true&vCenter=true&width=700&lines=JavaScript+Mini+Projects;HTML+%7C+CSS+%7C+JavaScript;Learn+by+Building+Real+Projects)
+
 ![JS](https://img.shields.io/badge/JavaScript-Projects-yellow?logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
@@ -5,7 +7,6 @@
 ![PRs](https://img.shields.io/badge/PRs-Welcome-blue)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 ![License](https://img.shields.io/badge/License-MIT-black)
-![JS Mini Projects](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=JavaScript%20Mini%20Projects&fontSize=45&fontColor=ffffff)
 
 # 🎉 JavaScript Mini Projects  
 A collection of small, practical, fun JavaScript projects designed to strengthen your DOM, events, styling, logic, and UI-building skills.
