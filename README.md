@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&text=%%20%7C%20JavaScript%20Mini%20Projects&fontSize=38&fontColor=F7DF1E)
+
 ![JS](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=F7DF1E&center=true&vCenter=true&width=700&lines=JavaScript+Mini+Projects;HTML+%7C+CSS+%7C+JavaScript;Learn+by+Building+Real+Projects)
 
 ![JS](https://img.shields.io/badge/JavaScript-Projects-yellow?logo=javascript)
@@ -7,12 +9,6 @@
 ![PRs](https://img.shields.io/badge/PRs-Welcome-blue)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 ![License](https://img.shields.io/badge/License-MIT-black)
-
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:2a5298&height=160&text=Hisam%20Sufian%20%7C%20JavaScript%20Mini%20Projects&fontSize=36&fontColor=ffffff)
-
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:f09819&height=150&text=Hisam%20Sufian%20%7C%20Mini%20Projects&fontSize=40&fontColor=ffffff)
-
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&text=Hisam%20Sufian%20%7C%20JavaScript%20Mini%20Projects&fontSize=38&fontColor=F7DF1E)
 
 
 # 🎉 JavaScript Mini Projects  
