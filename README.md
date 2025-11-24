@@ -1,3 +1,11 @@
+![JS](https://img.shields.io/badge/JavaScript-Projects-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![PRs](https://img.shields.io/badge/PRs-Welcome-blue)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
+![License](https://img.shields.io/badge/License-MIT-black)
+
 # 🎉 JavaScript Mini Projects  
 A collection of small, practical, fun JavaScript projects designed to strengthen your DOM, events, styling, logic, and UI-building skills.
 
