@@ -1,0 +1,13 @@
+{
+  "name": "js-mini-projects",
+  "version": "1.0.0",
+  "description": "Several mini real life projects for beginner to mastering JS",
+  "main": "index.js",
+  "scripts": {
+    "serve:html": "python3 -m http.server 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
