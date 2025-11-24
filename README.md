@@ -31,11 +31,11 @@ js-mini-projects/<br>
 │── 02_calculator/<br>
 │── 03_digital_clock/<br>
 │── 04_guess_number/<br>
-│── 05_weather_app/
-│── 06_quiz_app/
-│── 07_stopwatch/
-│── 08_image_slider/
-│── 09_expense_tracker/
+│── 05_weather_app/<br>
+│── 06_quiz_app/<br>
+│── 07_stopwatch/<br>
+│── 08_image_slider/<br>
+│── 09_expense_tracker/<br>
 └── 10_notes_app/
 
 
