@@ -36,9 +36,9 @@ project-name/<br>
 │── style.css<br>
 └── script.js<br>
 
-✔ Add comments for any tricky logic
-✔ Make sure your project runs correctly
-✔ Test before submitting
+✔ Add comments for any tricky logic<br>
+✔ Make sure your project runs correctly<br>
+✔ Test before submitting<br>
 
 ### 5️⃣ Commit With a Meaningful Message
 ```
@@ -60,9 +60,9 @@ We will review your submission as soon as possible!
 
 # 🧹 Coding Standards
 
-Write simple, beginner-friendly JavaScript
-Use consistent indentation (2 or 4 spaces)
-No unnecessary library dependencies
+Write simple, beginner-friendly JavaScript<br>
+Use consistent indentation (2 or 4 spaces)<br>
+No unnecessary library dependencies<br>
 Keep UI minimal and clean
 
 # ❤️ Thank You!
