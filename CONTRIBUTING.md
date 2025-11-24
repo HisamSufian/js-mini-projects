@@ -29,9 +29,9 @@ git checkout -b feature/your-feature-name
 
 Follow these guidelines:
 
-✔ Keep code clean and readable
-✔ Use folder structure like:
-project-name/
+✔ Keep code clean and readable<br>
+✔ Use folder structure like:<br>
+project-name/<br>
 │── index.html<br>
 │── style.css<br>
 └── script.js<br>
