@@ -19,7 +19,7 @@ git clone https://github.com/<your-username>/<repo-name>.git
 ```
 git checkout -b feature/your-feature-name
 ```
-* Use a meaningful branch name, for example: *
+# * Use a meaningful branch name, for example: 
 
 `feature/add-stopwatch-ui`
 `fix/calculator-bug`
