@@ -1,25 +1,38 @@
-
+/* Reset default browser styles */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
 }
 
+/* Center content on page */
 body {
-    background: #f4f4f4;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    background: #111;
+    font-family: Arial, sans-serif;
 }
 
-.container {
-    background: white;
-    width: 380px;
-    padding: 25px 30px;
+/* Clock box */
+.clock-container {
+    background: #000;
+    padding: 30px 40px;
     border-radius: 12px;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
     text-align: center;
+    box-shadow: 0 0 25px rgba(0, 255, 255, 0.4);
 }
 
+/* Title */
+.clock-container h1 {
+    color: #00ffff;
+    margin-bottom: 15px;
+}
+
+/* Clock text */
+#clock {
+    font-size: 48px;
+    color: #00ffcc;
+    letter-spacing: 2px;
+}
