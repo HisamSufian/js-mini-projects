@@ -1,21 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Project</title>
-    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <title>Notes App</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <div class="container">
-        <h1>Project Title</h1>
-        <p class="subtitle">Short description here...</p>
+<div class="container">
+    <h1>🗒️ Notes App</h1>
 
-        <div id="app"></div>
-    </div>
+    <!-- Add Note -->
+    <textarea id="noteInput" placeholder="Write your note here..."></textarea>
+    <button id="addBtn">Add Note</button>
 
-    <script src="script.js"></script>
+    <!-- Search -->
+    <input type="text" id="searchInput" placeholder="Search notes...">
+
+    <!-- Notes List -->
+    <div id="notesContainer"></div>
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
-
