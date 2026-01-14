@@ -1,21 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Project</title>
-    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <title>Stopwatch</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js" defer></script>
 </head>
 <body>
 
-    <div class="container">
-        <h1>Project Title</h1>
-        <p class="subtitle">Short description here...</p>
+    <div class="stopwatch-container">
+        <h1>⏱ Stopwatch</h1>
 
-        <div id="app"></div>
+        <div id="display">00:00:00</div>
+
+        <div class="buttons">
+            <button id="startBtn">Start</button>
+            <button id="stopBtn">Stop</button>
+            <button id="resetBtn">Reset</button>
+        </div>
     </div>
 
-    <script src="script.js"></script>
 </body>
 </html>
-

@@ -1,4 +1,4 @@
-
+/* Page reset */
 * {
     margin: 0;
     padding: 0;
@@ -6,20 +6,45 @@
     font-family: Arial, sans-serif;
 }
 
+/* Center everything */
 body {
-    background: #f4f4f4;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    background: #2b68a5;
 }
 
-.container {
+/* Card */
+.stopwatch-container {
     background: white;
-    width: 380px;
-    padding: 25px 30px;
+    padding: 30px 40px;
     border-radius: 12px;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
     text-align: center;
+    box-shadow: 0 10px 25px rgba(249, 0, 0, 0.1);
 }
 
+/* Time display */
+#display {
+    font-size: 2.5rem;
+    margin: 20px 0;
+    font-weight: bold;
+}
+
+/* Buttons */
+.buttons button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#startBtn { background: #28a745; color: white; }
+#stopBtn  { background: #dc3545; color: white; }
+#resetBtn { background: #007bff; color: white; }
+
+.buttons button:hover {
+    opacity: 0.9;
+}
