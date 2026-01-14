@@ -1,21 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Project</title>
-    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+
+    <!-- Link CSS -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <div class="container">
-        <h1>Project Title</h1>
-        <p class="subtitle">Short description here...</p>
+    <div class="weather-container">
+        <h1>Weather App</h1>
 
-        <div id="app"></div>
+        <!-- City input -->
+        <input 
+            type="text" 
+            id="cityInput" 
+            placeholder="Enter city name"
+        >
+
+        <!-- Button -->
+        <button id="getWeatherBtn">Get Weather</button>
+
+        <!-- Weather output -->
+        <div class="weather-info">
+            <p id="cityName"></p>
+            <p id="temperature"></p>
+            <p id="description"></p>
+        </div>
     </div>
 
+    <!-- Link JS -->
     <script src="script.js"></script>
 </body>
 </html>
-
