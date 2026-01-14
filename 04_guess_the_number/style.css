@@ -1,25 +1,90 @@
-
+/* Reset browser defaults */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
 }
 
+/* Center everything */
 body {
-    background: #f4f4f4;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    background: #f0f4f8;
+    font-family: Arial, sans-serif;
 }
 
-.container {
+/* Game card */
+.game-container {
     background: white;
-    width: 380px;
-    padding: 25px 30px;
+    width: 320px;
+    padding: 25px;
     border-radius: 12px;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
     text-align: center;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
 }
 
+/* Heading */
+.game-container h1 {
+    margin-bottom: 10px;
+}
+
+/* Instruction text */
+.instruction {
+    margin-bottom: 15px;
+    color: #444;
+}
+
+/* Input */
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 12px;
+    border-radius: 6px;
+    border: 1px solid #aaa;
+    font-size: 16px;
+}
+
+/* Buttons container */
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 12px;
+}
+
+/* Buttons */
+button {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#checkBtn {
+    background: #4caf50;
+    color: white;
+}
+
+#resetBtn {
+    background: #f44336;
+    color: white;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+/* Message */
+#message {
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+/* Attempts */
+#attempts {
+    color: #555;
+}

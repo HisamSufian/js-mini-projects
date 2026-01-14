@@ -1,21 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Project</title>
-    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Number</title>
+
+    <!-- Link CSS -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <div class="container">
-        <h1>Project Title</h1>
-        <p class="subtitle">Short description here...</p>
+    <div class="game-container">
+        <h1>Guess the Number</h1>
 
-        <div id="app"></div>
+        <p class="instruction">
+            Guess a number between <strong>1 and 100</strong>
+        </p>
+
+        <!-- User input -->
+        <input 
+            type="number" 
+            id="guessInput" 
+            placeholder="Enter your guess"
+        >
+
+        <!-- Buttons -->
+        <div class="buttons">
+            <button id="checkBtn">Check</button>
+            <button id="resetBtn">Reset</button>
+        </div>
+
+        <!-- Result message -->
+        <p id="message"></p>
+
+        <!-- Attempt counter -->
+        <p id="attempts">Attempts: 0</p>
     </div>
 
+    <!-- Link JavaScript -->
     <script src="script.js"></script>
 </body>
 </html>
-
